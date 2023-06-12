@@ -1,0 +1,32 @@
+#image{
+    background-color: blueviolet;
+}
+h1{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    letter-spacing: 20px;
+    font-size: 75px;
+    color: #fff;
+    text-transform: uppercase;
+}
+.suma{
+    text-align: center;
+}
+#summary{
+    background-color: azure;
+    text-align: left;
+}
+.img{
+    text-align:left;
+}
+
+.container{
+    background-color:bisque
+}
+h2,h3,hr{
+    color: brown;
+}
+.das{
+    padding: 10px;
+}
